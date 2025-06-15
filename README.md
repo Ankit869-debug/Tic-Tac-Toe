@@ -2,7 +2,7 @@
 
 ## 📌 Task 03 – SkillCraft Technology Internship
 
-Build a classic *Tic-Tac-Toe game* that can be played between two users or against the computer, with a clean UI and interactive gameplay experience.
+Build a classic *Tic-Tac-Toe game* that can be played between two users with a clean UI and interactive gameplay experience.
 
 ---
 
